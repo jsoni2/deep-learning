@@ -10,7 +10,7 @@ face_generation/data/
 
 *.pyc
 *.p
-*.pkl 
+*.pkl
 
 */.floyd*
 
@@ -18,3 +18,15 @@ face_generation/data/
 *.zip
 
 intro-to-tensorflow/notMNIST.pickle
+
+image-classification/cifar-10-batches-py/
+
+image-classification/cifar-10-python.tar.gz
+
+image-classification/checkpoint
+
+image-classification/image_classification.data-00000-of-00001
+
+image-classification/image_classification.index
+
+image-classification/image_classification.meta
