@@ -30,3 +30,7 @@ image-classification/image_classification.data-00000-of-00001
 image-classification/image_classification.index
 
 image-classification/image_classification.meta
+
+transfer-learning/labels
+
+transfer-learning/codes
